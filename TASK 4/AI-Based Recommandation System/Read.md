@@ -8,4 +8,4 @@ UserNeighborhood: Defines a neighborhood of users with similar preferences.
 
 UserBasedRecommender: Generates recommendations for a specific user based on the preferences of similar users.
 
-**This is a basic recommender system**
+***This is a basic recommender system***

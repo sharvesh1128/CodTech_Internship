@@ -1,4 +1,4 @@
-Working:
+**Working:**
 
 DataModel: Loads user preferences from the CSV file.
 
